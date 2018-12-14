@@ -1,0 +1,32 @@
+1.Min Yang, Qiang Qu, Kai Lei, Jia Zhu, Xiaojun Chen, Zhou Zhao Zhexue Huang, Investigating Deep Reinforcement Learning Techniques in Personalized Dialogue Generation, SDM 2018
+2.Min Yang, Wenting Tu, Qiang Qu, Xiaojun Chen, Zhou Zhao Jia Zhu. Personalized Response Generation by Dual-learning based Domain Adaptation. Neural Networks, 2018
+3.Zheqian Chen Rongqin Yang, Zhou Zhao Deng Cai and Xiaofei He, Dialogue Act Recognition via CRF-Attentive Structured Network, SIGIR 2018
+4.Min Yang, Zhou Zhao, Wei Zhao, Xiaojun Chen, Jia Zhu, Lianqiang Zhou, Zigang Cao: Personalized Response Generation via Domain adaptation. SIGIR 2017: 1021-1024
+1.Hongyang Xue, Wenqing Chu, Zhou Zhao Deng Cai, A Better Way to Attend: Attention with Trees for Video Question Answering, TIP 2018
+2.Zhou Zhao Zhu Zhang, Shuwen Xiao, Zhou Yu, Jun Yu, Deng Cai, Fei Wu, Yueting Zhuang, Open-Ended Long-form Video Question Answering via Adaptive Hierarchical Reinforced Networks, IJCAI 2018
+3.Zhou Zhao Xinghua Jiang, Deng Cai, Jun Xiao, Xiaofei He, Shiliang Pu, Multi-Turn Video Question Answering via Multi-Stream Hierarchical Attention Context Network, IJCAI 2018
+4.Zheqian Chen Chi Zhang, Zhou Zhao Chengwei Yao, Deng Cai: Question retrieval for community-based question answering via heterogeneous social influential network. Neurocomputing 2018
+5.Wenqing Chu, Hongyang Xue, Zhou Zhao Deng Cai, Chengwei Yao: The forgettable-watcher model for video question answering. Neurocomputing 2018
+6.Yao Wan, Guandong Xu, Liang Chen, Zhou Zhao Jian Wu: Exploiting cross-source knowledge for warming up community question answering services. Neurocomputing 2018
+7.Xinyu Duan, Siliang Tang, Sheng-yu Zhang, Yin Zhang, Zhou Zhao Jian-ru Xue, Yueting Zhuang, Fei Wu: Temporality-enhanced knowledgememory network for factoid question answering. Frontiers of IT & EE 19: 2018
+8.Hongyang Xue, Zhou Zhao Deng Cai: Unifying the Video and Question Attentions for Open-Ended Video Question Answering. IEEE Trans. Image Processing 2017
+9.Fei Wu, Xinyu Duan, Jun Xiao, Zhou Zhao Siliang Tang, Yin Zhang, Yueting Zhuang: Temporal Interaction and Causal Influence in Community-Based Question Answering. IEEE Trans. Knowl. Data Eng. 2017
+10.Zhou Zhao Hanqing Lu, Vincent W. Zheng, Deng Cai, Xiaofei He, Yueting Zhuang: Community-Based Question Answering via Asymmetric Multi-Faceted Ranking Network Learning. AAAI 2017: 3532-3539
+11.Zhou Zhao Qifan Yang, Deng Cai, Xiaofei He, Yueting Zhuang: Video Question Answering via Hierarchical Spatio-Temporal Attention Networks. IJCAI 2017: 3518-3524
+12.Zhou Zhao Jinghao Lin, Xinghua Jiang, Deng Cai, Xiaofei He, Yueting Zhuang: Video Question Answering via Hierarchical Dual-Level Attention Network Learning. ACM Multimedia 2017: 1050-1058
+13.Dejing Xu, Zhou Zhao Jun Xiao, Fei Wu, Hanwang Zhang, Xiangnan He, Yueting Zhuang: Video Question Answering via Gradually Refined Attention over Appearance and Motion. ACM Multimedia 2017: 1645-1653
+14.Yunan Ye, Zhou Zhao Yimeng Li, Long Chen, Jun Xiao, Yueting Zhuang: Video Question Answering via Attribute-Augmented Attention Network Learning. SIGIR 2017: 829-832
+1.Boyuan Pan Yazheng Yang, Zhou Zhao Yueting Zhuang, Deng Cai, Xiaofei He, Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference, ACL 2018 (full)
+2.Zemin Liu, Vincent W. Zheng, Zhou Zhao Zhao Li, Hongxia Yang, Minghui Wu, Jing Ying, Interactive Paths Embedding for Semantic Proximity Search on Heterogeneous Graphs, SIGKDD 2018
+3.Zhou Zhao Lingtao Meng, Jun Xiao, Min Yang, Fei Wu, Deng Cai, Xiaofei He, Yueting Zhuang, Attentional Image Retweet Modeling via Multi-Faceted Ranking Network Learning, IJCAI 2018
+4.Zhou Yu, Jun Yu, Chenchao Xiang, Zhou Zhao Qi Tian, Dacheng Tao, Rethinking Diversified and Discriminative Proposal Generation for Visual Grounding, IJCAI 2018
+5.Wei Zhao, Benyou Wang, Jianbo Ye, Min Yang, Zhou Zhao Ruotian Luo, Yu Qiao, A Multi-task Learning Approach for Image Captioning, IJCAI 2018
+6.Yao Wan, Zhou Zhao Min Yang, Guandong Xu, Haochao Ying, Jian Wu, Philip S.Yu, Improving Automatic Source Code Summarization via Deep Reinforcement Learning, ASE 2018
+7.Boyuan Pan Yazheng Yang, Hao Li, Zhou Zhao Yueting Zhuang, Deng Cai, Xiaofei He, MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models, NIPS 2018
+8.Min Yang, Wei Zhao, Wei Xu, Yabing Feng, Zhou Zhao Xiaojun Chen, Kai Lei, Multitask Learning for Cross-domain Image Captioning, TMM 2018
+9.Yutong Wang, Yixin Xu, Min Yang, Zhou Zhao Jun Xiao, Yueting Zhuang: Integrating Side Information for Boosting Machine Comprehension. CIKM 2017
+1.Zemin Liu, Vincent W. Zheng, Zhou Zhao Fanwei Zhu, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying, Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs, AAAI 2018
+2.Zemin Liu, Vincent W. Zheng, Zhou Zhao Hongxia Yang, Kevin Chang, Minghui Wu and Jing Ying, Subgraph-augmented Path Embedding for Semantic User Search on Heterogeneous Social Network, WWW 2018
+3.Xiaojun Chen, Yixiang Fang, Ming Yang, Feiping Nie, Zhou Zhao Joshua Zhexua Huang, PurTreeClust: A Clustering Algorithm for Customer Segmentation from Massive Customer Transaction Data, TKDE 2018
+4.Jianrong Tao, Jiarong Xu, Linxia Gong, Yifu Li Changjie Fan, Zhou Zhao NGUARD: A Game Bot Detection Framework for NetEase MMORPGs, SIGKDD 2018
+5.Zheqian Chen Ben Gao, Huimin Zhang, Zhou Zhao Haifeng Liu, Deng Cai: User Personalized Satisfaction Prediction via Multiple Instance Deep Learning.
